@@ -1,6 +1,126 @@
-{"data" : [{"id":1,"first_name":"Anne-corinne","last_name":"Lewty","email":"alewty0@hud.gov"},
-{"id":2,"first_name":"Peadar","last_name":"Abramovicz","email":"pabramovicz1@over-blog.com"},
-{"id":3,"first_name":"Tallulah","last_name":"Have","email":"thave2@wordpress.org"},
-{"id":4,"first_name":"Zachariah","last_name":"Glassman","email":"zglassman3@hexun.com"},
-{"id":5,"first_name":"Kayne","last_name":"Mullan","email":"kmullan4@tmall.com"}]
+{
+   "odata.metadata" : "https://b1connect.beonesolution.com:50000/b1s/v1/$metadata#Items",
+   "value" : [
+      {
+         "ItemCode" : "1000010",
+         "ItemName" : "Kopra A",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000051",
+         "ItemName" : "KULIT",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000003",
+         "ItemName" : "Kelapa",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 103
+         },
+      {
+         "ItemCode" : "1000011",
+         "ItemName" : "Paring A",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000053",
+         "ItemName" : "SORTIR",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000006",
+         "ItemName" : "Tepung Kelapa",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000008",
+         "ItemName" : "Paring",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000074",
+         "ItemName" : "Rawmat 3",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 103
+         },
+      {
+         "ItemCode" : "1000050",
+         "ItemName" : "KELAPA KOPRA",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 103
+         },
+      {
+         "ItemCode" : "1000007",
+         "ItemName" : "Kopra",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000009",
+         "ItemName" : "Tepung Kelapa A",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000012",
+         "ItemName" : "TEPUNG KELAPA A1",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000028",
+         "ItemName" : "WIP Item",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000029",
+         "ItemName" : "WIP Item 2",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000030",
+         "ItemName" : "TEPUNG KELAPA B1",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000032",
+         "ItemName" : "TEPUNG KELAPA B2",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000017",
+         "ItemName" : "TEPUNG KELAPA A2",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000018",
+         "ItemName" : "TEPUNG KELAPA A3",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000033",
+         "ItemName" : "TEPUNG KELAPA B3",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         },
+      {
+         "ItemCode" : "1000034",
+         "ItemName" : "TEPUNG KELAPA C2",
+         "ForeignName" : null,
+         "ItemsGroupCode" : 104
+         }
+   ],
+   "odata.nextLink" : "/b1s/v1/Items?$skip=20"
 }
