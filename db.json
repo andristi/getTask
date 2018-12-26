@@ -119,5 +119,6 @@
          "ForeignName" : null,
          "ItemsGroupCode" : 104
          }
-   ]
+   ],
+ "odata.nextLink" : "/b1s/v1/Items?$skip=20"
 }
