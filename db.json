@@ -1,6 +1,5 @@
 {
-      "odata.metadata" : "https://b1connect.beonesolution.com:50000/b1s/v1/$metadata#Items",
-"value" : [
+   "value" : [
       {
          "ItemCode" : "1000010",
          "ItemName" : "Kopra A",
@@ -121,5 +120,5 @@
          "ForeignName" : null,
          "ItemsGroupCode" : 104
          }
-   ]
+   ], "title":"Conditions for Austin, TX, US at 02:00 AM CST"
 }
