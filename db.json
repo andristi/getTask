@@ -1,5 +1,4 @@
 {
-   "odata.metadata" : "https://b1connect.beonesolution.com:50000/b1s/v1/$metadata#Items",
    "value" : [
       {
          "ItemCode" : "1000010",
@@ -121,6 +120,5 @@
          "ForeignName" : null,
          "ItemsGroupCode" : 104
          }
-   ],
-   "odata.nextLink" : "/b1s/v1/Items?$skip=20"
+   ]
 }
